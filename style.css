@@ -18,7 +18,8 @@
 
 .column{
   float: left;
-  width: 20vw;
+  min-width:20vw;
+  width: 25vw;
   padding: 5px;
   margin: 5px;
   border: 1px solid white;
