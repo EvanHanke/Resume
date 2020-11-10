@@ -18,9 +18,9 @@
 
 .column{
   float: left;
-  width: 28%;
+  width: 25vw;
   padding: 5px;
-  margin:5px;
+  margin: 5px;
   border: 1px solid white;
 }
 
